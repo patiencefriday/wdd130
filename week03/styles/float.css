@@ -10,6 +10,7 @@ p {
     text-align: justify;
 }
 
+
 .col1 img {
     float: right;
     margin: 0 0 15px 15px;
@@ -21,6 +22,5 @@ footer {
     border-top: 1px solid #555;
     padding-top: 5px;
     /* Remove the comment below and observe the results. */
-
-    /* clear: both; */
+    clear: both;
 }
